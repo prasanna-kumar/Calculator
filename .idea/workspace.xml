@@ -7,7 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b165be88-ca13-4d41-aa12-3cb22a93c6a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
@@ -136,7 +135,8 @@
       <option name="presentableId" value="Default" />
       <updated>1588762884031</updated>
       <workItem from="1588762885367" duration="4027000" />
-      <workItem from="1588830667081" duration="1957000" />
+      <workItem from="1588830667081" duration="2347000" />
+      <workItem from="1588834904852" duration="40000" />
     </task>
     <servers />
   </component>
@@ -148,7 +148,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
