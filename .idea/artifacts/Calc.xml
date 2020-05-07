@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Calc">
+    <output-path>$PROJECT_DIR$/out/artifacts/Calc</output-path>
+    <root id="archive" name="Calc.war">
+      <element id="javaee-facet-resources" facet="Calc/web/Web" />
+    </root>
+  </artifact>
+</component>
